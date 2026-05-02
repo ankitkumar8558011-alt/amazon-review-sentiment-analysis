@@ -1,6 +1,6 @@
-# 📊 Sentiment Analysis on Product Reviews
+# Sentiment Analysis on Product Reviews
 
-## 🧾 Project Overview
+## Project Overview
 
 This project focuses on analyzing customer reviews from an e-commerce dataset and classifying them into **Positive, Negative, or Neutral sentiments** using Natural Language Processing (NLP).
 
@@ -8,7 +8,7 @@ The goal is to automate the process of understanding customer feedback and extra
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 E-commerce platforms receive thousands of reviews daily. Manually analyzing them is inefficient.
 This project builds a system that:
@@ -19,7 +19,7 @@ This project builds a system that:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 * Dataset used: Amazon Fine Food Reviews
 * Source: Kaggle
@@ -27,7 +27,7 @@ This project builds a system that:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python 3.14
 * Jupyter Notebook
@@ -39,7 +39,7 @@ This project builds a system that:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Data Loading & Exploration
 
@@ -71,7 +71,7 @@ This project builds a system that:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * Majority of reviews are **positive**, indicating good customer satisfaction
 * Negative reviews mainly highlight:
@@ -83,7 +83,7 @@ This project builds a system that:
 
 ---
 
-## 💡 Recommendation
+## Recommendation
 
 The business should focus on:
 
@@ -93,7 +93,7 @@ The business should focus on:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SentimentAnalysis_YourName/
@@ -110,7 +110,7 @@ SentimentAnalysis_YourName/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install required libraries:
 
@@ -123,11 +123,11 @@ SentimentAnalysis_YourName/
 
 ---
 
-## 👤 Author
+## Author
 Ankit Kumar
 
 ---
 
-## 📌 Note
+## Note
 
 This project was completed as part of an internship to demonstrate skills in data analysis, NLP, and visualization.
